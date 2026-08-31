@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiet Attic Films\\FormAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\selectademp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\selectademp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\formemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\formemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\formcrew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\formcrew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\formorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\formorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\formproduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\formproduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\formproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\formproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\formlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\formlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\formpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\formpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\empcus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\empcus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\empoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\empoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\quiet attic films\\emppay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiet attic films\\emppay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiet Attic Films\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\AdminLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiet Attic Films\\AdminLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\SelectAdEmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiet Attic Films\\SelectAdEmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiet Attic Films\\FormOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\EmpOder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiet Attic Films\\EmpOder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiet Attic Films\\FormPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormLocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiet Attic Films\\FormLocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\AdminForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiet Attic Films\\AdminForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormProduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiet Attic Films\\FormProduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiet Attic Films\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormEmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiet Attic Films\\FormEmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormCrew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiet Attic Films\\FormCrew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\LoadingForm.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\LoadingForm.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\LoadingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:18:01.907Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SelectAdEmp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\SelectAdEmp.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\SelectAdEmp.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\SelectAdEmp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:26:16.019Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\AdminLogin.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\AdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:46:55.379Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\LoginForm.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:51:29.409Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\AdminForm.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:52:52.706Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormAdmin.cs",
+              "ToolTip": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormAdmin.cs [Design]",
+              "RelativeToolTip": "Quiet Attic Films\\FormAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:53:33.777Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormEmp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormEmp.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormEmp.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\FormEmp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:53:42.25Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormCrew.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormCrew.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormCrew.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\FormCrew.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:53:48.815Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormCustomer.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormCustomer.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\FormCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:53:55.803Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormOrder.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormOrder.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\FormOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:54:11.826Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormProduction.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormProduction.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormProduction.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\FormProduction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:54:21.287Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormProperty.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormProperty.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormProperty.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\FormProperty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:54:33.037Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormLocation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormLocation.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormLocation.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\FormLocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:54:53.515Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormPayment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormPayment.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormPayment.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\FormPayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:54:58.533Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\EmployeeForm.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\EmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:52:46.423Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmpCus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\EmpCus.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\EmpCus.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\EmpCus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:55:33.016Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmpOder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\EmpOder.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\EmpOder.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\EmpOder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:55:43.278Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmpPay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\EmpPay.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\EmpPay.cs",
+              "ToolTip": "D:\\Esoft\\Semester 01\\Database Design and Development\\Assignment\\New folder (2)\\Quiet Attic Films\\Quiet Attic Films\\EmpPay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:55:46.878Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\LoginForm.cs",
+              "RelativeToolTip": "Quiet Attic Films\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:03:31.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\AdminLogin.cs",
+              "RelativeToolTip": "Quiet Attic Films\\AdminLogin.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwEMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:03:01.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SelectAdEmp.cs",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\SelectAdEmp.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\SelectAdEmp.cs",
+              "ToolTip": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\SelectAdEmp.cs",
+              "RelativeToolTip": "Quiet Attic Films\\SelectAdEmp.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAMwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:02:53.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormOrder.cs",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormOrder.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormOrder.cs",
+              "ToolTip": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormOrder.cs",
+              "RelativeToolTip": "Quiet Attic Films\\FormOrder.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAhwEUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:27:21.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmpOder.cs",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\EmpOder.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\EmpOder.cs",
+              "ToolTip": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\EmpOder.cs",
+              "RelativeToolTip": "Quiet Attic Films\\EmpOder.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAIAwwNUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:24:12.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormPayment.cs",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormPayment.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormPayment.cs",
+              "ToolTip": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormPayment.cs",
+              "RelativeToolTip": "Quiet Attic Films\\FormPayment.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAgwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:39:32.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormLocation.cs",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormLocation.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormLocation.cs",
+              "ToolTip": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormLocation.cs",
+              "RelativeToolTip": "Quiet Attic Films\\FormLocation.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAQwMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:39:22.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormAdmin.cs",
+              "ToolTip": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormAdmin.cs",
+              "RelativeToolTip": "Quiet Attic Films\\FormAdmin.cs",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAuwE0BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:58:35.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\AdminForm.cs",
+              "RelativeToolTip": "Quiet Attic Films\\AdminForm.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAD4v+AAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T05:51:11.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormProduction.cs",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormProduction.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormProduction.cs",
+              "ToolTip": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormProduction.cs",
+              "RelativeToolTip": "Quiet Attic Films\\FormProduction.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:46:44.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\Program.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\Program.cs",
+              "ToolTip": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\Program.cs",
+              "RelativeToolTip": "Quiet Attic Films\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:43:03.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormEmp.cs",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormEmp.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormEmp.cs",
+              "ToolTip": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormEmp.cs",
+              "RelativeToolTip": "Quiet Attic Films\\FormEmp.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:58:58.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormCrew.cs",
+              "DocumentMoniker": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormCrew.cs",
+              "RelativeDocumentMoniker": "Quiet Attic Films\\FormCrew.cs",
+              "ToolTip": "C:\\Users\\pasan\\Desktop\\Quiet Attic Films\\Quiet Attic Films\\FormCrew.cs",
+              "RelativeToolTip": "Quiet Attic Films\\FormCrew.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAADwvxEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:59:15.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
