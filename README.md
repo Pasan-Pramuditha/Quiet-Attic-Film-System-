@@ -24,8 +24,6 @@ A desktop-based enterprise management system developed for **Quiet Attic Films**
 - [Installation & How to Run](#-installation--how-to-run)
 - [Configuration](#-configuration)
 - [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -166,26 +164,3 @@ Quiet-Attic-Film-System-/
     └── Resources/                      # UI icons and graphic assets
 ```
 
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-- **Pasan Pramuditha**
-- GitHub: [@Pasan-Pramuditha](https://github.com/Pasan-Pramuditha)
